@@ -1,0 +1,17 @@
+asgiref @ file:///home/ayat/.cache/pypoetry/artifacts/cf/65/18/1451154a3ac6f8e749a6f7485ce77472fc1b339d4696f7a4cb816ac781/asgiref-3.5.2-py3-none-any.whl
+attrs @ file:///home/ayat/.cache/pypoetry/artifacts/5b/25/94/5d165cd3190cb7dfdc98de86c28e8131fc6e19d83a504412664abffec0/attrs-21.4.0-py2.py3-none-any.whl
+Django @ file:///home/ayat/.cache/pypoetry/artifacts/37/9b/d3/9f038c4d278c0648632b781525978e28b2a12731f3864ef7e24f3edcb8/Django-4.0.4-py3-none-any.whl
+django-filter==21.1
+djangorestframework==3.13.1
+importlib-metadata==4.11.4
+Markdown==3.3.7
+more-itertools @ file:///home/ayat/.cache/pypoetry/artifacts/9e/a8/8b/a9af3e49e50176a01cca867ec675161f8e29a64e033e0450e556c19f4c/more_itertools-8.13.0-py3-none-any.whl
+packaging @ file:///home/ayat/.cache/pypoetry/artifacts/47/3f/ce/b240169f7d8bef1ff24a0269b709721ce86543c2ec25e0b6adb2c2d7ac/packaging-21.3-py3-none-any.whl
+pluggy @ file:///home/ayat/.cache/pypoetry/artifacts/29/58/fc/ed8b7451d3ef91a6465024f5656141da996e7aafd4d41a1659629a75e7/pluggy-0.13.1-py2.py3-none-any.whl
+py @ file:///home/ayat/.cache/pypoetry/artifacts/b3/5c/47/ba5a596e01a2b61fa2daa6a438252483ad8c04e6c99e5dc22eaf8a489a/py-1.11.0-py2.py3-none-any.whl
+pyparsing @ file:///home/ayat/.cache/pypoetry/artifacts/c9/49/7b/434b2668226040d1097efcdddb802b28d05b02854b659ac17913a9a90c/pyparsing-3.0.9-py3-none-any.whl
+pytest @ file:///home/ayat/.cache/pypoetry/artifacts/e4/88/dd/3dbff42e3c4462dc3d027f5024025571166cb35edee215ce93852a968c/pytest-5.4.3-py3-none-any.whl
+pytz==2022.1
+sqlparse @ file:///home/ayat/.cache/pypoetry/artifacts/ea/fd/ba/117a876397913faee210ef8bac93829e22ad9232662e656971383c0718/sqlparse-0.4.2-py3-none-any.whl
+wcwidth @ file:///home/ayat/.cache/pypoetry/artifacts/7d/f4/60/0737157bb9711fec72c70dff523aa54491eef317e0d586cf5388ff0908/wcwidth-0.2.5-py2.py3-none-any.whl
+zipp==3.8.0
